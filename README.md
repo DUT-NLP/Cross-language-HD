@@ -17,6 +17,7 @@
 1. 开发环境： python 2.7.11 and theano 0.8.2  <br>
 2. 语料预处理<br>
 3. python lstm.py执行lstm模型
+
 ## Reference
-Felix A. Gers and Jürgen Schmidhuber. 2000. Recurrent nets that time and count. In Proceedings of Neural Networks.IEEE-INNS-ENNS International Joint Conference on, 3:189–194
+Felix A. Gers and Jürgen Schmidhuber. 2000. Recurrent nets that time and count. In Proceedings of Neural Networks.IEEE-INNS-ENNS International Joint Conference on, 3:189–194  
 周惠巍, 杨欢, 张静,等. 中文模糊限制语语料库的研究与构建[J]. 中文信息学报, 2015, 29(6):83-89.
