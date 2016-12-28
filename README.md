@@ -12,9 +12,10 @@ In our work, we adopt an LSTM variant, which adds the "peephole connections" to 
 ![peeohole] (https://github.com/DUT-NLP/Cross-language-HD/blob/master/peephole.png)
 ## Dataset 
 实验采用 CoNLL 2010 的模糊限制语识别任务中的生物医学领域语料作为英文训练语料。该语料包括生物医学领域的摘要和
-全文语料。中文测试语料采用Zhou等构建的中文模糊限制语语料库(CHedge)
+全文语料。中文测试语料采用周等构建的中文模糊限制语语料库(CHedge)
 ## Requriments
 python 2.7.11 and theano 0.8.2  
 
 ## Reference
 Felix A. Gers and Jürgen Schmidhuber. 2000. Recurrent nets that time and count. In Proceedings of Neural Networks.IEEE-INNS-ENNS International Joint Conference on, 3:189–194
+周惠巍, 杨欢, 张静,等. 中文模糊限制语语料库的研究与构建[J]. 中文信息学报, 2015, 29(6):83-89.
