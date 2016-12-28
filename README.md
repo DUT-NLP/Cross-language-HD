@@ -10,6 +10,8 @@
 更多关于LSTM模型的信息，你可以查阅 <http://deeplearning.net/tutorial/lstm.html#lstm><br>
 在我们的工作中，我们在基本LSTM模型中添加了"peephole connections"  [Gers and Schmidhuber,2000]<br> 
 ![peeohole] (https://github.com/DUT-NLP/Cross-language-HD/blob/master/peephole.png)
+其公式表示如下所示：<br>
+![gongshi](https://github.com/DUT-NLP/Cross-language-HD/blob/master/peephole.png)
 ## Dataset 
 实验采用 CoNLL 2010 的模糊限制语识别任务中的生物医学领域语料作为英文训练语料。该语料包括生物医学领域的摘要和
 全文语料。中文测试语料采用周等构建的中文模糊限制语语料库(CHedge)
