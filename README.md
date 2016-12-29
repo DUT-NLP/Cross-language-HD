@@ -19,7 +19,7 @@
 ## Steps
 1. 搭建开发环境： python 2.7.11 and theano 0.8.2  <br>
 2. 语料预处理<br>
-3. python lstm.py执行lstm模型
+3. python lstm.py
 
 ## Reference
 Felix A. Gers and Jürgen Schmidhuber. 2000. Recurrent nets that time and count. In Proceedings of Neural Networks.IEEE-INNS-ENNS International Joint Conference on, 3:189–194  
