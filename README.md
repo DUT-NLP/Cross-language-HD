@@ -12,6 +12,7 @@
 其公式表示如下所示：<br>
 ![gongshi](https://github.com/DUT-NLP/Cross-language-HD/blob/master/gongshi.png)
 更多关于LSTM模型的信息以及公式的说明，你可以查阅 <http://deeplearning.net/tutorial/lstm.html#lstm><br>
+
 ## Dataset 
 实验采用 CoNLL 2010 的模糊限制语识别任务中的生物医学领域语料作为英文训练语料。该语料包括生物医学领域的摘要和
 全文语料。中文测试语料采用周等构建的中文模糊限制语语料库(CHedge)
@@ -22,4 +23,5 @@
 
 ## Reference
 Felix A. Gers and Jürgen Schmidhuber. 2000. Recurrent nets that time and count. In Proceedings of Neural Networks.IEEE-INNS-ENNS International Joint Conference on, 3:189–194  
-周惠巍, 杨欢, 张静,等. 中文模糊限制语语料库的研究与构建[J]. 中文信息学报, 2015, 29(6):83-89.
+周惠巍, 杨欢, 张静,等. 中文模糊限制语语料库的研究与构建[J]. 中文信息学报, 2015, 29(6):83-89.  
+陈龙. 基于深度学习的跨语言信息抽取研究[D]. 大连:大连理工大学, 1-63.
